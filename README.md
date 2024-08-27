@@ -1,4 +1,4 @@
-Product Sales Data Analysis
+#Product Sales Data Analysis
 This project is a comprehensive analysis of product sales data, utilizing SQL Server, Power BI, Power Query, and DAX. The goal was to create a robust and interactive Power BI dashboard that provides valuable insights into sales performance, trends, and key metrics.
 
 Table of Contents
