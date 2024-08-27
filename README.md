@@ -2,17 +2,17 @@
 
 This project is a comprehensive analysis of product sales data, utilizing SQL Server, Power BI, Power Query, and DAX. The goal was to create a robust and interactive Power BI dashboard that provides valuable insights into sales performance, trends, and key metrics.
 
-##Table of Contents
-Project Overview
-Technologies Used
-Data Sources
+##Table of Contents  
+Project Overview  
+Technologies Used  
+Data Sources  
 Data Modeling
-Dashboards & Visualizations
-How to Use
-Conclusion
-Contact Information
-Project Overview
-The Product Sales Data Analysis project involved:
+Dashboards & Visualizations  
+How to Use  
+Conclusion  
+Contact Information  
+Project Overview  
+The Product Sales Data Analysis project involved:  
 
 Connecting to SQL Server: Using T-SQL to create data views and fact tables that served as the foundation for the analysis.
 Data Transformation and Cleansing: Leveraging Power Query to prepare the data for analysis, including custom transformations to ensure data quality.
