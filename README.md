@@ -1,8 +1,8 @@
-Product Sales Data Analysis  
+#Product Sales Data Analysis  
 
 This project is a comprehensive analysis of product sales data, utilizing SQL Server, Power BI, Power Query, and DAX. The goal was to create a robust and interactive Power BI dashboard that provides valuable insights into sales performance, trends, and key metrics.
 
-Table of Contents  
+##Table of Contents  
 Project Overview  
 Technologies Used  
 Data Sources  
@@ -38,5 +38,6 @@ The project features several key dashboards, including:
 
 Sales Performance Dashboard: Visualizes overall sales, broken down by product categories, regions, and time periods.  
 Salesperson Performance: Highlights the contributions of individual salespersons, comparing their performance against targets.  
-Inventory Analysis: Monitors stock levels, turnover rates, and product availability to support inventory management decisions.  
+Inventory Analysis: Monitors stock levels, turnover rates, and product availability to support inventory management decisions. 
+
 ![Screenshot 2024-06-21 005012](https://github.com/user-attachments/assets/29a9f3d8-7858-4010-a62d-f4be7336405f)
